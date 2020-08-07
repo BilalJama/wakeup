@@ -8,9 +8,9 @@ import (
 )
 
 func send(body string) {
-	from := "golangtuts420@gmail.com"
-	pass := "Qwerty1234*"
-	to := "golangtuts420@gmail.com"
+	from := "*****0@gmail.com"
+	pass := "*****"
+	to := "******@gmail.com"
 
 	msg := "From: " + from + "\n" +
 		"To: " + to + "\n" +
